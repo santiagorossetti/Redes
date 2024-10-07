@@ -1,0 +1,10 @@
+tp 6
+configuracion de 
+
+crear vlans (10 a 99 de 10 en 10)
+cambiar modos a acceso
+asignar vlans correspondientes
+puertos entre switch poner en rango f0/1 hasta correspondiente (interface range f0/1 - correspondiente)
+nativo 99
+
+cada vlan 99 ingresar ip address direccion mascara
